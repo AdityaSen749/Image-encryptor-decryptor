@@ -2,7 +2,7 @@
 # imcrypt-main Web App
 
 A web-based tool to encrypt and decrypt images using a custom XOR-based algorithm.  
-**Developed by Pratik Sharma**
+**Developed by Aditya Sen**
 
 ---
 
