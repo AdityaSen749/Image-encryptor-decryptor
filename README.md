@@ -13,7 +13,9 @@ A web-based tool to encrypt and decrypt images using a custom XOR-based algorith
 - Decrypt your encrypted image using the key.
 - No image or key is stored on the server after processing.
 
----
+---![images_encrypted (1)](https://github.com/user-attachments/assets/c6eab899-b56e-4e42-bee0-5be94dffc903)
+![ency img 2](https://github.com/user-attachments/assets/f2c57887-340f-45a8-a5a3-310769ecda76)
+![ency img 1](https://github.com/user-attachments/assets/178c625b-0b79-452c-a262-5d19540e35bb)
 
 
 
